@@ -22,3 +22,12 @@ Este é um sistema de biblioteca de livros, onde o usuário pode favoritar livro
 - **Controle de estado**: Usado para salvar as categorias de livros e as preferências do usuário (como o modo escuro).
 
 
+![image](https://github.com/user-attachments/assets/e810ae76-b091-4680-bcb7-746a46fb6f35)
+
+
+
+https://github.com/user-attachments/assets/a463aadb-7ab0-497c-bb0c-61b6598fa778
+
+
+
+
